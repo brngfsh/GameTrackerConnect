@@ -1,7 +1,7 @@
 # GameTracker Connect
-Chrome extension that adds a connect button to the GameTracker server pages
+Chrome extension that adds a connect button to the [GameTracker](https://www.gametracker.com) server pages
 
 ## Goals
 * [x] Show connect button on all server pages
-* [ ] Press on extension icon to connect to the server on activeTab
+* [ ] Press on extension icon to connect to the server on active tab
 * [ ] Disable connect button, if server status is not alive
